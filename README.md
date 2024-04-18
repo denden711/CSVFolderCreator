@@ -1,6 +1,5 @@
 # CSVFolderCreator
  
-### CSVFolderCreator
 
 CSVFolderCreatorは、指定されたディレクトリ内のすべてのCSVファイルに基づいてフォルダを自動的に作成するPythonプログラムです。これにより、ファイルの整理と管理が容易になります。
 
